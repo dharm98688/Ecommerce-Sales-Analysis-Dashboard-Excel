@@ -20,7 +20,7 @@ The goal of this project is to analyze ecommerce sales data and present business
 
 ## Dashboard Preview
 
-Images/Dashboard.png
+[Images/Dashboard.png](https://github.com/dharm98688/Ecommerce-Sales-Analysis-Dashboard-Excel/blob/main/Images/Dashboard.png?raw=true)
 
 ---
 
