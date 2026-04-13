@@ -20,7 +20,7 @@ The goal of this project is to analyze ecommerce sales data and present business
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+Images/Dashboard.png
 
 ---
 
